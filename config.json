@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrelete",
+        "uuid": 20678424,
+        "checksum": "ti06zd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
